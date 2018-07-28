@@ -1,0 +1,158 @@
+.topper {
+	background-color: #ffffff;
+	height: 70px;
+	border: 2px solid #cccccc;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: 1;
+}
+
+.header-1 {
+	background-color: #4aaaa5;
+	color: #ffffff;
+	width: 30%;
+	height: 70px;
+	text-align: center;
+	margin-left: 210px;
+	position: absolute;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	z-index: 1;
+
+}
+
+.header-1 h1 {
+	position: relative;
+	bottom: 10%;
+	z-index: 1;
+	
+
+}
+.topper nav{
+	text-align: center;
+	float: right;
+	font-size: 20px;
+	margin-right: 220px;
+	word-spacing: 20px;
+	position: relative;
+	top: 20px;
+	color: #777777;
+	z-index: 1;
+}
+
+a {
+	text-decoration: none;
+}
+
+body {
+	background-color: lightblue;
+}
+
+.middlebox {
+	background-color: #ffffff;
+	height: 650px;
+	width: 960px;
+	margin: 0 auto;
+	margin-top: 150px;
+	margin-bottom: 150px;
+	padding: 30px;
+	border: 2px solid #cccccc;
+}
+
+.middlewhole {
+	position: relative;
+	top: -40px;
+}
+
+.topbody {
+	color: #4aaaa5;
+	border-bottom: 3px solid #cccccc;
+	overflow: auto;
+	padding: 10px;
+}
+
+.topbody h1 {
+	position: relative;
+	bottom: -10px;
+}
+
+
+p {
+	white-space: normal;
+	text-align: justify;
+	font-size: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #777777;
+	margin-top: 25px;
+}
+
+input {
+	box-sizing: border-box;
+	width: 960px;
+	height: 50px;
+	padding: 20px;
+	margin-top: 10px;
+	font-size: 15px;
+	color: #777777;
+}
+
+
+.message {
+	height: 150px;
+}
+
+#button {
+	background-color: #4aaaa5;
+	width: 150px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #ffffff;
+
+}
+
+form {
+	margin-top: 40px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #777777;
+}
+
+
+img {
+	width: 175px;
+	height: 260px;
+	float: left;
+	margin: 30px 20px 10px 0px;
+}
+
+.footer-1 {
+	background-color: #4aaaa5;
+	height: 15px;
+	margin-top: 50px;
+	position: fixed;
+	left: 0;
+	bottom: 50px;
+	width: 100%;
+}
+
+.footer-2 {
+	background-color: #666666;
+	height: 50px;
+	text-align: center;
+	position: fixed;
+	width: 100%;
+	left: 0;
+	bottom: 0;
+}
+
+h4 {
+	text-align: center;
+	position: fixed;
+	bottom: -10px;
+	width: 100%;
+	color: #777777;
+	
+}
+
+
