@@ -51,7 +51,7 @@ body {
 
 .middlebox {
 	background-color: #ffffff;
-	height: 650px;
+	height: 600px;
 	width: 960px;
 	margin: 0 auto;
 	margin-top: 150px;
@@ -94,12 +94,17 @@ input {
 	padding: 20px;
 	margin-top: 10px;
 	font-size: 15px;
-	color: #777777;
+	color: #ffffff;
 }
 
-
 .message {
+	color: #777777;
+	border-color: #999999;
 	height: 150px;
+	width: 955px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	margin-top: 10px;
 }
 
 #button {
@@ -107,7 +112,6 @@ input {
 	width: 150px;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 15px;
-	color: #ffffff;
 
 }
 
@@ -151,7 +155,8 @@ h4 {
 	position: fixed;
 	bottom: -10px;
 	width: 100%;
-	color: #777777;
+	color: #888888;
+	font-size: 13px;
 	
 }
 

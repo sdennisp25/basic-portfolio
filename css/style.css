@@ -48,7 +48,7 @@ body {
 
 .middlebox {
 	background-color: #ffffff;
-	height: 60%;
+	height: 420px;
 	width: 960px;
 	margin: 0 auto;
 	margin-top: 150px;
@@ -117,7 +117,8 @@ h4 {
 	position: fixed;
 	bottom: -10px;
 	width: 100%;
-	color: #777777;
+	color: #888888;
+	font-size: 13px;
 	
 }
 
