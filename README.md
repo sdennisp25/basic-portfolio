@@ -1,1 +1,7 @@
-1) I began creating the first page of the assignment called the About me page. It was a very difficult task at first, as I was very new to the html/css coding. At first, I was very confused on creating the framework of the code. I've overcame all of this by analyzing a lot of other peoples code online and my peers to gain a more clear understanding of the layout and re-enforced context.
+Here I have created an initial HTML/CSS introduction of myself on a simple three page setup.The About me page will give you a better idea of my background and things I like to do on my free time. The portfolio page gives an example of a possible layout of what my portfolio may look like in the future. Lastly, the contact page is created to send me messages.
+
+  1)  About Me
+  2)  Porfolio
+  3)  Contact
+  
+  
